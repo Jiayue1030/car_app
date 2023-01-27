@@ -1,0 +1,11 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "D:\\UM\\Master Of Data Science\\Sem 1\\WQD7001 Principle Of Data Science\\Car Recommender\\car_app",
+        "app_url": "https://jiayue1030.shinyapps.io/vehicle-recommendation-system/",
+        "app_id": 8146527,
+        "app_guid": null,
+        "title": "vehicle-recommendation-system",
+        "app_mode": "python-shiny"
+    }
+}

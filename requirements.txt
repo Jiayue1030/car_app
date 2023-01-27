@@ -1,0 +1,6 @@
+requests
+shiny
+pandas
+scikit-learn
+# numpy
+# pickle
